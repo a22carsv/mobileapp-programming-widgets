@@ -4,5 +4,5 @@
     <string name="person_image">Person Image</string>
     <string name="name">Name</string>
     <string name="SaveButton">Save</string>
-    <string name="save">Save</string>
+    <string name="ExitButton">Exit</string>
 </resources>
